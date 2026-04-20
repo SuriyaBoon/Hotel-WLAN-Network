@@ -193,4 +193,12 @@ This project is for educational and portfolio purposes.
 
 ---
 
+## 📸 Screenshots
+
+![Topology Overview](screenshots/topology_overview.png)
+![Server Farm](screenshots/server_farm.png)
+![Guest Block](screenshots/guest_block.png)
+![Employee Block](screenshots/employee_block.png)
+
+---
 *Built with Cisco Packet Tracer | April 2026*
