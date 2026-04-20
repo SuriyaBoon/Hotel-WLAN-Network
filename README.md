@@ -2,7 +2,6 @@
 
 ![Network](https://img.shields.io/badge/Cisco-Packet%20Tracer-blue)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-![Score](https://img.shields.io/badge/Portfolio%20Score-9%2F10-gold)
 ![Version](https://img.shields.io/badge/Version-2.0-informational)
 
 ## 📋 Overview
