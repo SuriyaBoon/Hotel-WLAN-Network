@@ -6,9 +6,9 @@
 
 ## 📋 Overview
 
-A comprehensive enterprise-grade hotel network infrastructure designed and implemented in Cisco Packet Tracer. This project demonstrates real-world network design principles including redundancy, security, VoIP, wireless management, and dynamic routing.
+A hotel network portfolio simulation designed in Cisco Packet Tracer. It demonstrates redundancy, segmentation, VoIP, wireless management, and dynamic routing in a simulated topology.
 
-The network supports **3,400+ concurrent users** across a Guest Block (6 floors) and Employee Block with full internet connectivity, VoIP telephony, and wireless access.
+The design targets a Guest Block (6 floors) and an Employee Block. The previously quoted **3,400+ users** is a planning figure, not a measured concurrent-user capacity. Packet Tracer connectivity checks do not establish real hardware throughput or production availability.
 
 ---
 
